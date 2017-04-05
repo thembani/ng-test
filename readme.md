@@ -60,7 +60,8 @@ ____
     "songs":[{
         "text":""
     }]
-}
+  }
+  
 -using the same form as /artist/add
     -validate the form and update the artist's information using the above endpoint
 ```        
