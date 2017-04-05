@@ -1,4 +1,4 @@
-##### NOTE: Please make sure you have [node installed](https://nodejs.org/en/){:target="_blank"}
+##### NOTE: Please make sure you have [node installed](https://nodejs.org/en/)
 ****
 
 ##### install json-server
