@@ -1,3 +1,6 @@
+##### NOTE: Please make sure you have [node installed](https://nodejs.org/en/)
+****
+
 ##### install json-server
     - Open command line in the ng-test folder and run "npm install json-server -g"
 ##### install lite-server
