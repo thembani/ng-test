@@ -1,0 +1,79 @@
+{
+  "artists": [
+    {
+      "name": "adsad",
+      "details": "asdasd",
+      "dateRegistered": "2017-03-15T22:00:00.000Z",
+      "songs": [
+        {
+          "text": "asd"
+        },
+        {
+          "text": "asdasdsad"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "asd",
+      "details": "asdsad",
+      "dateRegistered": "2017-03-02T22:00:00.000Z",
+      "songs": [
+        {
+          "text": "asdasd"
+        },
+        {
+          "text": "asd"
+        },
+        {
+          "text": "asdsad"
+        },
+        {
+          "text": "sadasdsadsadasd"
+        },
+        {
+          "text": "asdasdasdsad"
+        },
+        {
+          "text": "asdsa"
+        },
+        {
+          "text": "dsa"
+        },
+        {
+          "text": "dsad"
+        },
+        {
+          "text": "sad"
+        },
+        {
+          "text": "asdsadsadasd"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Test",
+      "details": "test",
+      "dateRegistered": "2017-03-16T22:00:00.000Z",
+      "songs": [
+        {
+          "text": "asdsadsad"
+        },
+        {
+          "text": "asdasdas"
+        },
+        {
+          "text": "dasd"
+        },
+        {
+          "text": "asd"
+        },
+        {
+          "text": "asdasd"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
